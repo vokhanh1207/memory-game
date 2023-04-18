@@ -1,6 +1,6 @@
 # MemoryGame
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+This game can be called as a matching game, it shows a number of images (3x3 or 4x4) as hidden images, you click on a square to open the image under the square and click another square to find a matched one. If two images are matched, they will stay shown, if two opened images are not matched both of them will return back to be hidden under the squares. Try to match all images and you win the game.
 
 ## Development server
 
